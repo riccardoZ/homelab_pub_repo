@@ -8,3 +8,4 @@ readarr : VM-TEST #192.168.1.100
 prowlarr : VM-TEST #192.168.1.100
 bazarr : VM-TEST #192.168.1.100
 qbittorrent : VM-TEST #192.168.1.100
+jellyfin : tbd
