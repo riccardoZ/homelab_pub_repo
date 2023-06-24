@@ -5,3 +5,4 @@ radarr : VM-TEST #192.168.1.100
 sonarr : VM-TEST #192.168.1.100
 lidarr : VM-TEST #192.168.1.100
 readarr : VM-TEST #192.168.1.100
+prowlarr : VM-TEST #192.168.1.100
