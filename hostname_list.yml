@@ -1,4 +1,4 @@
 plex_server : plex-ct
 media_dw_server:
 
-homer : ct-TEST
+homer : ct-TEST #192.168.1.149
