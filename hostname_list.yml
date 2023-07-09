@@ -4,7 +4,7 @@ homer : ct-TEST #192.168.1.149
 radarr : media-dwl-srv #192.168.1.53
 sonarr : media-dwl-srv #192.168.1.53
 lidarr : media-dwl-srv #192.168.1.53
-readarr : VM-TEST #192.168.1.100
+readarr : media-dwl-srv #192.168.1.53
 prowlarr : VM-TEST #192.168.1.100
 bazarr : VM-TEST #192.168.1.100
 qbittorrent : VM-TEST #192.168.1.100
