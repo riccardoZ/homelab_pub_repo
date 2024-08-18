@@ -6,7 +6,7 @@ sonarr : media-dwl-srv #192.168.1.204
 lidarr : media-dwl-srv #192.168.1.204
 readarr : media-dwl-srv #192.168.1.204
 prowlarr : media-dwl-srv #192.168.1.204
-bazarr : media-dwl-srv #192.168.1.53
+bazarr : media-dwl-srv #192.168.1.204
 qbittorrent : media-dwl-srv #192.168.1.53
 jellyfin : jellyfin-ct #192.168.1.50
 syncthing_node_a : ct-TEST #192.168.1.49
