@@ -8,5 +8,5 @@ readarr : media-dwl-srv #192.168.1.204
 prowlarr : media-dwl-srv #192.168.1.204
 bazarr : media-dwl-srv #192.168.1.204
 qbittorrent : media-dwl-srv #192.168.1.204
-jellyfin : jellyfin-ct #192.168.1.50
+jellyfin : jellyfin-ct #192.168.1.49
 syncthing_node_a : ct-TEST #192.168.1.49
