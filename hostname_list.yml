@@ -4,7 +4,7 @@ homer : home-lab-dash #192.168.1.32
 radarr : media-dwl-srv #192.168.1.204
 sonarr : media-dwl-srv #192.168.1.204
 lidarr : media-dwl-srv #192.168.1.204
-readarr : media-dwl-srv #192.168.1.53
+readarr : media-dwl-srv #192.168.1.204
 prowlarr : media-dwl-srv #192.168.1.53
 bazarr : media-dwl-srv #192.168.1.53
 qbittorrent : media-dwl-srv #192.168.1.53
