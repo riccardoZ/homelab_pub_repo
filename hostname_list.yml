@@ -6,7 +6,7 @@ sonarr : testVM #192.168.1.180
 lidarr : testVM #192.168.1.180
 readarr : testVM #192.168.1.180
 prowlarr : testVM #192.168.1.180
-bazarr : media-dwl-srv #192.168.1.204
+bazarr : testVM #192.168.1.180
 qbittorrent : media-dwl-srv #192.168.1.204
 jellyfin : jellyfin-ct #192.168.1.49
 syncthing_node_a : ct-TEST #192.168.1.49
