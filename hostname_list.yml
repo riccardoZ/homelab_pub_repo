@@ -3,7 +3,7 @@ plex : plex-ct #192.168.1.208
 homer : home-lab-dash #192.168.1.32
 radarr : testVM #192.168.1.180
 sonarr : testVM #192.168.1.180
-lidarr : media-dwl-srv #192.168.1.204
+lidarr : testVM #192.168.1.180
 readarr : media-dwl-srv #192.168.1.204
 prowlarr : media-dwl-srv #192.168.1.204
 bazarr : media-dwl-srv #192.168.1.204
