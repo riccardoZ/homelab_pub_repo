@@ -7,7 +7,7 @@ lidarr : media-dwl-srv #192.168.1.82
 readarr : media-dwl-srv #192.168.1.82
 prowlarr : media-dwl-srv #192.168.1.82
 bazarr : media-dwl-srv #192.168.1.82
-qbittorrent : media-dwl-srv #192.168.1.222
+qbittorrent : media-dwl-srv #192.168.1.82
 jellyfin : jellyfin #192.168.1.3
 syncthing_node_a : ct-TEST #192.168.1.49
 nextcloud : nextcloud-srv #192.168.1.102
